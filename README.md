@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @1234Tim    "Tim"
+- I'm a retired auto worker and a life long lover of woodworking
 - 👀 I’m interested in CNC routing
 - 🌱 I’m currently learning how to build and setup a self built CNC mechine
 - 💞️ I’m looking to help getting my mechine up andrunning
